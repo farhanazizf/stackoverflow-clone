@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/stackoverflow-clone.git
+   git clone https://github.com/farhanazizf/stackoverflow-clone.git
    ```
 
 2. Navigate to the project directory:
@@ -55,4 +55,4 @@ To get a local copy up and running, follow these simple steps:
 
 5. Open your browser and visit `http://localhost:3000`
 
-Project Link: [https://github.com/your-username/stackoverflow-clone](https://github.com/your-username/stackoverflow-clone)
+Project Link: [https://github.com/farhanazizf/stackoverflow-clone](https://github.com/farhanazizf/stackoverflow-clone)
