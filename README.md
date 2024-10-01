@@ -22,8 +22,8 @@ This project is a simplified clone of StackOverflow, built with React and Redux.
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (v14.0.0 or later)
-- npm (v6.0.0 or later)
+- Node.js
+- npm
 
 ## Getting Started
 
